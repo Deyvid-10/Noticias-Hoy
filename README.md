@@ -1,6 +1,11 @@
-# Noticias Hoy
+# Nova Store
 
-Noticias Hoy es una plataforma digital que te mantiene actualizado con las últimas noticias y eventos tanto a nivel local como global. Desarrollada utilizando una API creada por mí, la cual consulta información de usuarios y artículos desde una base de datos propia, garantizando así un acceso rápido y confiable a la información más relevante. Además, integra otras APIs externas como OpenWeatherMap para brindar información meteorológica en tiempo real y GetGeoAPI para obtener datos actualizados sobre divisas. Con un diseño intuitivo y contenido variado, Noticias Hoy se posiciona como tu fuente confiable para mantenerte informado sobre los acontecimientos más importantes del día.
+Nova Store es una tienda electrónica desarrollada con React y Express, diseñada para ofrecer una experiencia moderna y segura. En el frontend integra librerías como react-router-dom para la navegación dinámica, react-slick y slick-carousel para carruseles de productos, react-toastify para notificaciones interactivas y tailwindcss para un diseño responsivo y atractivo. Todo esto permite una interfaz intuitiva con vistas de productos, carrito de compras y flujo de usuario optimizado.
+
+
+En el backend, la aplicación utiliza Express junto con MySQL2 para el manejo de datos, bcrypt para la encriptación de contraseñas, jsonwebtoken para autenticación segura con JWT y cookie-parser y cors para la gestión de sesiones y seguridad en las peticiones. Además, se emplea dotenv y zod para la configuración de entornos y validación robusta de datos. El resultado es una plataforma escalable y confiable que combina rendimiento, seguridad y una experiencia de usuario completa.
+
+
 
 Si quieres ver mi trabajo de forma local en tu equipo, revisa mi documentación y sigue los pasos!
 
